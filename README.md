@@ -1,7 +1,7 @@
 <p align="center"> <kbd><img src="https://github.com/raman04-byte/raman04-byte/blob/fbe15cfbcdb80fcde48b41d1cd0b06eb8dcaaf5f/github-header-image.png" alt="raman04-byte" /></kbd> </p>
 
 <p align="center"> <a href="https://www.holopin.io/@raman04"><kbd><img src="https://holopin.me/raman04" alt="raman04-byte" /></kbd></a> </p>
-
+<p align="center"> <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/raman04-byte?label=Followers&style=social"></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><kbd><img src="https://github-profile-trophy.vercel.app/?username=raman04-byte&theme=onedark&row=10&column=4&margin-w=15&margin-h=15" alt="raman04-byte" /></kbd></a> </p>
 
 - 🌱 I’m currently learning ```Flutter```
