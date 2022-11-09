@@ -14,12 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/14881416" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14881416" height="30" width="40" /></kbd></a>
+<a href="https://stackoverflow.com/users/17868854/raman" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14881416" height="30" width="40" /></kbd></a>
 <a href="https://instagram.com/yaduttam.pareek" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaduttam.pareek" height="30" width="40" /></kbd></a>
-<a href="https://www.codechef.com/users/yaduttam_paree" target="blank"><kbd><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yaduttam_paree" height="30" width="40" /></kbd></a>
-<a href="https://www.hackerrank.com/yaduttampareek95" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yaduttampareek95" height="30" width="40" /></kbd></a>
-<a href="https://codeforces.com/profile/yaduttampareek" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yaduttampareek" height="30" width="40" /></kbd></a>
-<a href="https://www.hackerearth.com/@yaduttam" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yaduttam" height="30" width="40" /></kbd></a>
+<a href="https://www.codechef.com/users/raman04byte" target="blank"><kbd><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yaduttam_paree" height="30" width="40" /></kbd></a>
+<a href="https://www.hackerrank.com/2020pgicsraman65" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yaduttampareek95" height="30" width="40" /></kbd></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
