@@ -10,7 +10,7 @@
 
 - 📫 How to reach me ```raman04@gmail.com```
 
-- ⚡ Fun fact ```When i code only i and god knows whats happening but when, the code runs only god knows whats happening 😅```
+- ⚡ Fun fact ```Thank google, stackoverflow for believing in me ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
