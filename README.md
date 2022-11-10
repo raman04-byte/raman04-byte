@@ -10,7 +10,7 @@
 
 - 📫 How to reach me ```raman04@gmail.com```
 
-- ⚡ Fun fact ```Thank google, stackoverflow for believing in me ```
+- ⚡ Fun fact ```Thanks google, stackoverflow for believing in me ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
