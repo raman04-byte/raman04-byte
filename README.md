@@ -25,7 +25,7 @@
 
 <table>
    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=raman04-byte&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Yaduttam Pareek" />
+      <td><img src="https://github-readme-stats.vercel.app/api?username=raman04-byte&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Raman Tank" />
          <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman04-byte&theme=dark&line_height=23" alt="raman04-byte" /></td>
    </tr>
 </table>
