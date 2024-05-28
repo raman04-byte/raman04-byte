@@ -1,12 +1,20 @@
-<p align="center"> <kbd><img src="https://github.com/raman04-byte/raman04-byte/blob/fbe15cfbcdb80fcde48b41d1cd0b06eb8dcaaf5f/github-header-image.png" alt="raman04-byte" /></kbd> </p>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Raman</h1>
+<h3 align="center">Passionate software enthusiast eager to learn and create</h3>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/raman-tank/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+  <a href="https://leetcode.com/ramantank04022002/"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/></a>
+  <a href="https://x.com/raman_tank4"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://medium.com/@ramantank04"><img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=raman04-byte&style=for-the-badge&color=blue" alt=""/>
+</div>
 
-<p align="center"> <a href="https://www.holopin.io/@raman04"><kbd><img src="https://holopin.me/raman04" alt="raman04-byte" /></kbd></a> </p>
 <p align="center"> <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/raman04-byte?label=Followers&style=social"></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><kbd><img src="https://github-profile-trophy.vercel.app/?username=raman04-byte&theme=onedark&row=10&column=4&margin-w=15&margin-h=15" alt="raman04-byte" /></kbd></a> </p>
 
-- 🌱 I’m currently learning ```Flutter```
+- 🌱 I’m currently doing ```Flutter```
 
-- 💬 Ask me about ```C, C++, DSA, JAVA, Google Cloud```
+- 💬 Ask me about ```C, C++, DSA, JAVA, Google Cloud, Flutter```
 
 - 📫 How to reach me ```ramantank04@gmail.com```
 
